@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "708925055871",
+    "firebase_url": "https://shopee-8710c.firebaseio.com",
+    "project_id": "shopee-8710c",
+    "storage_bucket": "shopee-8710c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708925055871:android:f52ffe99dc638fdf",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708925055871-73iuk7l8bfmg5us795nidvlt2o5lfv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUtmLRxYNKMr2CY2wD8Q2nTFsXZUEoE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708925055871:android:002c1c7e316b0ae4",
+        "android_client_info": {
+          "package_name": "lekkla.tong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708925055871-73iuk7l8bfmg5us795nidvlt2o5lfv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUtmLRxYNKMr2CY2wD8Q2nTFsXZUEoE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708925055871:android:5d67c33f290e0bee",
+        "android_client_info": {
+          "package_name": "tong.lekkla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708925055871-73iuk7l8bfmg5us795nidvlt2o5lfv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUtmLRxYNKMr2CY2wD8Q2nTFsXZUEoE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
